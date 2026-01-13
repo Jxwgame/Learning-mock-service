@@ -19,6 +19,8 @@
 
 ## 🛠 เทคโนโลยีที่ใช้ (Tech Stack)
 
+![Tech Stack Diagram](./assets/tech-stack.png)
+
 ### Backend (Server)
 *   **Runtime**: Node.js
 *   **Framework**: Express.js
@@ -33,4 +35,3 @@
 *   **State Management**: Pinia
 *   **UI Library**: Bootstrap 5
 *   **HTTP Client**: Axios
-
